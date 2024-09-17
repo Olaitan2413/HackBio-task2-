@@ -35,9 +35,10 @@ The data are summarized under several key categories to extract essential inform
 1. **Indications and Targets**:
    1. *E. coli-*targeted drugs are the most common in the dataset (Figure 5).
    1. Drugs targeting Gram-negative infections, “*S. aureus*, HAP, and VAP” infections are less prevalent in the data.
-   1. Mycobacterium tuberculosis and Clostridium difficile are the least targeted organisms but are of high priority due to their severe impact (Figure 8).
+   1. Mycobacterium tuberculosis and Clostridium difficile are the least targeted organisms but are of high priority due to their severe impact (Figure 6).
+      ![Figure 5](https://github.com/Olaitan2413/HackBio-task2-/blob/main/Images/Indication%20plot.jpg?raw=true)
 1. **Clinical Trials**:
-   1. The clinical trial with the highest number of studies is NCT03788434 (Figure 6).
+   1. The clinical trial with the highest number of studies is NCT03788434 (Figure 7).
 
 **Conclusion**
 

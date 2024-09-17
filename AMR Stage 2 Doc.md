@@ -27,6 +27,7 @@ The data are summarized under several key categories to extract essential inform
       1. Oral
       1. oral and IV
    1. Only one product each was administered via colonoscopy and enema  (Figure 3).
+      ![Figure 3](https://github.com/Olaitan2413/HackBio-task2-/blob/main/Images/Route%20of%20Administration.jpg?raw=true)
 1. **Research and Developmental Phases**:
    1. Most drugs are in the Phase 1 trial stage.
    1. There is a notable decrease in the number of drugs progressing from Phase 1 to Phase 3, While only a few drugs have reached the pre-registration stage (Figure 4).

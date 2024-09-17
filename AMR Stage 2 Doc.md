@@ -31,6 +31,7 @@ The data are summarized under several key categories to extract essential inform
 1. **Research and Developmental Phases**:
    1. Most drugs are in the Phase 1 trial stage.
    1. There is a notable decrease in the number of drugs progressing from Phase 1 to Phase 3, While only a few drugs have reached the pre-registration stage (Figure 4).
+      ![Figure 4](https://github.com/Olaitan2413/HackBio-task2-/blob/main/Images/R&D%20level%20of%20drug%20test.jpg?raw=true)
 1. **Indications and Targets**:
    1. *E. coli-*targeted drugs are the most common in the dataset (Figure 5).
    1. Drugs targeting Gram-negative infections, “*S. aureus*, HAP, and VAP” infections are less prevalent in the data.

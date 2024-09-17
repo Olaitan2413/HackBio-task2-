@@ -45,6 +45,8 @@ The data are summarized under several key categories to extract essential inform
       Figure 6
 1. **Clinical Trials**:
    1. The clinical trial with the highest number of studies is NCT03788434 (Figure 7).
+      ![Figure 7](https://github.com/Olaitan2413/HackBio-task2-/blob/main/Images/Clinical_trials.jpg?raw=true)
+      Figure 7
 
 **Conclusion**
 

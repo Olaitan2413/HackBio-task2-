@@ -112,4 +112,4 @@ ggplot(Antibacterial_Class_count_df, aes(x = Count, y = Antibacterial_Class)) +
   theme(axis.text.y = element_text(angle = 45, hjust = 1, size = 9 ))  
 
 
-
+the report of the data is 

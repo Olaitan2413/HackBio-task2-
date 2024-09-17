@@ -16,11 +16,13 @@ The data are summarized under several key categories to extract essential inform
       1. Immunomodulating agents
       1. Microbiome-modulating agents
       1. Miscellaneous strategies
-1. Figure 1 illustrates that 57.2% of the developed drugs fall into the Non-Traditional category. Among these, Bacteriophages and phage-derived enzymes are the most developed (>100 Antimicrobial), followed by Miscellaneous and Antibody-based drugs. Figure 2 shows that Bacteriophages are the most reported antibacterial class.
-   ![Figure 1](https://github.com/Olaitan2413/HackBio-task2-/blob/main/Images/Drug%20types.jpg?raw=true)
+    ![Figure 1](https://github.com/Olaitan2413/HackBio-task2-/blob/main/Images/Drug%20types.jpg?raw=true)
    Figure 1
-   ![Figure 2](https://github.com/Olaitan2413/HackBio-task2-/blob/main/Images/Antibacterial%20classes.jpg?raw=true)
-   Figure 2
+   
+1. Figure 1 illustrates that 57.2% of the developed drugs fall into the Non-Traditional category. Among these, Bacteriophages and phage-derived enzymes are the most developed (>100 Antimicrobial), followed by Miscellaneous and Antibody-based drugs Figure 2 . Figure 3 also shows that Bacteriophages are the most reported antibacterial class.
+  
+   ![Figure 3](https://github.com/Olaitan2413/HackBio-task2-/blob/main/Images/Antibacterial%20classes.jpg?raw=true)
+   Figure 3
 1. **Route of Administration**:
    1. A significant majority (69.2%) of antimicrobial agents under report are administered intravenously (IV).
    1. Other administration routes reported in the dataset include: 
